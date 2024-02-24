@@ -1,7 +1,7 @@
 # Contents
 - [bio.txt](https://github.com/scm929/git-exercise-2/blob/main/bio.txt)
 - hobbies.txt
-- list_o_projects.txt
+- list_of_projects.txt
 
 # Purpose
 This project has two purposes: learning to use Git and documenting some things about myself.
